@@ -1,3 +1,15 @@
+#creating 
+'''
+create-react-app proj-name
+or 
+git clone httpsL//github.com/user_name/proj_name
+
+'''
+#starting
+'''npm start'''
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
