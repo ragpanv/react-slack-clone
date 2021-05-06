@@ -8,7 +8,8 @@
     -search a channel
 3.data
     -users, channels, messages
-4.UI
+4.UI Components
+    -Slack Components
     -sidebar
         -listofchannel
         -listofdirectmessages

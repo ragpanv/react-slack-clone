@@ -1,13 +1,17 @@
-#creating 
+##creating 
 '''
 create-react-app proj-name
 or 
 git clone httpsL//github.com/user_name/proj_name
 
 '''
-#starting
+##starting
 '''npm start'''
 
+##project struct
+'''
+
+'''
 
 
 # Getting Started with Create React App
